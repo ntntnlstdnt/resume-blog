@@ -4,15 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I have a Bachelor's Degree in Aerospace Engineering from University of Michigan
+and a Mechanical Engineering from Western Michigan University.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+While at Western Michigan University, I researched under
+[Professor Peter Gustafson](https://wmich.edu/mechanical-aerospace/directory/gustafson)
+and [Dr. Andrew Geeslin](https://www.linkedin.com/in/andrew-geeslin-1760b74/). I
+successfully defending a [masters research](http://scholarworks.wmich.edu/masters_theses/548/)
+under their tutelage.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I am interested in the intersection of Data Science and engineering. 
