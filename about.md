@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: About Me
 permalink: /about/
 ---
 
@@ -13,4 +13,4 @@ and [Dr. Andrew Geeslin](https://www.linkedin.com/in/andrew-geeslin-1760b74/). I
 successfully defending a [masters research](http://scholarworks.wmich.edu/masters_theses/548/)
 under their tutelage.
 
-I am interested in the intersection of Data Science and engineering. 
+I am interested in the intersection of Data Science and engineering.
