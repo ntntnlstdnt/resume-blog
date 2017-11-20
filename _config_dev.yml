@@ -16,16 +16,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Mark Omwansa
-title_html: <b>mark</b>omwansa
+#title_html: <b>mark</b>omwansa
 email: m.omwansa@gmail.com
-shortbio: >-
-  I currently reside in the United States and enjoy learning new and interesting
-  things.
-pitch: technology, engineering etc
+#shortbio: >-
+#  I currently reside in the United States and enjoy learning new and interesting
+#  things.
+#pitch: technology, engineering etc
 description: >- # this means to ignore newlines until "baseurl:"
   Blog about things in Technology, Engineering, Art, and other things that
   peak my interest etc.
-nb_posts_page: 10
+#nb_posts_page: 10
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
