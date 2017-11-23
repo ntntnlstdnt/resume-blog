@@ -2,6 +2,8 @@
 layout: default
 title: About
 permalink: /about/
+about: active
+contact: passive
 ---
 
 I have a Bachelors Degree in Aerospace Engineering from University of Michigan
