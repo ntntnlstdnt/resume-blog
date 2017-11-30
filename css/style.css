@@ -176,5 +176,5 @@ ul.social-icons {
 /* formatting and resizing thumbnail*/
 .thumbnail {
 	width: 670px;
-	height: 335px;
+	max-height: 335px;
 }
