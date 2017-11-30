@@ -173,8 +173,8 @@ ul.social-icons {
 		color: #fff;
 }
 
-/* Centering footer */
-.col-centered {
-    float: none;
-    margin: 0 auto;
+/* formatting and resizing thumbnail*/
+.thumbnail {
+	width: 670px;
+	height: 335px;
 }
