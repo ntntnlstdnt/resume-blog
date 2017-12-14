@@ -12,7 +12,7 @@ Below, are some tutorials I found very helpful when building this site.
 
 2. Using [Jekyll][jekyll-docs] for your GitHub Page.
 
-3. [Tania Rascia Tutorial][tania-jekyll] on making your own custom jekyll theme.
+3. [Tania Rascia tutorial][tania-jekyll] on making your own custom jekyll theme.
 
 4. [Jonathan McGlone][jmcglone] also wrote [another good tutorial][jmcglone-guide] on customizing at jekyll site. His theme is used on this site.
 
@@ -23,13 +23,13 @@ Below, are some tutorials I found very helpful when building this site.
 [gh-pages]: https://pages.github.com
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [tania-jekyll]:  https://www.taniarascia.com/make-a-static-website-with-jekyll/
-[jmcglone]:https://jmcglone.com
+[jmcglone]:http://jmcglone.com
 [jmcglone-guide]:http://jmcglone.com/guides/github-pages/
 [kim-tutorial]: https://medium.com/@kimcodes/setting-up-a-web-page-with-github-pages-f77d45573ab2
 [jain-tutorial]: https://hackernoon.com/set-up-ssl-on-github-pages-with-custom-domains-for-free-a576bdf51bc
 
----
-###### Credits
-<small>
-<a href="https://www.freepik.com/free-photo/ink-lines_1297075.htm">Thumbnail photo Designed by Freepik</a>
-</small>
+
+<p style="font-size:10px;">
+  Credits:
+  <a href="https://www.freepik.com/free-photo/ink-lines_1297075.htm">Thumbnail photo Designed by Freepik</a>
+</p>
