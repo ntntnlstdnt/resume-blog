@@ -23,7 +23,7 @@ Below, are some tutorials I found very helpful when building this site.
 [gh-pages]: https://pages.github.com
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [tania-jekyll]:  https://www.taniarascia.com/make-a-static-website-with-jekyll/
-[jmcglone]:http://jmcglone.com
+[jmcglone]: http://jmcglone.com
 [jmcglone-guide]:http://jmcglone.com/guides/github-pages/
 [kim-tutorial]: https://medium.com/@kimcodes/setting-up-a-web-page-with-github-pages-f77d45573ab2
 [jain-tutorial]: https://hackernoon.com/set-up-ssl-on-github-pages-with-custom-domains-for-free-a576bdf51bc
