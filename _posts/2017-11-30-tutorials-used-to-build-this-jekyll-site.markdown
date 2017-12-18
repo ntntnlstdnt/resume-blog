@@ -2,7 +2,7 @@
 layout: post
 title:  "Tutorials Used to Build this Jekyll Site"
 date:   2017-11-30 08:28:57 -0500
-img: img/1947.jpg
+img: img/notebookPic.jpeg
 categories: jekyll update
 ---
 Below, are some tutorials I found very helpful when building this site.  
@@ -28,8 +28,7 @@ Below, are some tutorials I found very helpful when building this site.
 [kim-tutorial]: https://medium.com/@kimcodes/setting-up-a-web-page-with-github-pages-f77d45573ab2
 [jain-tutorial]: https://hackernoon.com/set-up-ssl-on-github-pages-with-custom-domains-for-free-a576bdf51bc
 
-
 <p style="font-size:10px;">
   Credits:
-  <a href="https://www.freepik.com/free-photo/ink-lines_1297075.htm">Thumbnail photo Designed by Freepik</a>
+  <a href="https://freephotos.cc/book">Thumbnail photo Designed by freephotos.cc</a>
 </p>
