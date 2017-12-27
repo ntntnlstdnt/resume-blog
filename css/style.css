@@ -192,6 +192,23 @@ ul.social-icons {
 	font-family: 'Merriweather', Georgia, Times;
 }
 
+.timeline .column #first {
+	position: relative;
+	left: 310px;
+	top: -40px;
+}
+
+.timeline .column #second {
+	position: relative;
+	left: 340px;
+	top: -40px;
+}
+
+.timeline .column #awards-nav {
+	position: relative;
+	left: 225px;
+	top: -40px;
+}
 .timeline .column .title h1:before {
 	content: "";
 	position: absolute;
