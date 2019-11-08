@@ -2,7 +2,6 @@
 layout: post
 title:  "Tutorials Used to Build this Jekyll Site"
 date:   2017-11-30 08:28:57 -0500
-img: img/notebookPic.jpeg
 categories: jekyll update
 ---
 Below, are some tutorials I found very helpful when building this site.  

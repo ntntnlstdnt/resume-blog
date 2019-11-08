@@ -165,10 +165,9 @@ ul.social-icons {
 /* Resume Timeline formatting */
 
 .timeline {
-	padding: 40px 0px;
+	padding: 20px 0px;
 	width: 80%;
 	margin-left: 10%;
-	margin-bottom: 40px;
 }
 /*
 .timeline:before {
@@ -179,11 +178,6 @@ ul.social-icons {
 	width: 3px;
 	height: calc(100% - 80px);
 	background: #c0392b;
-}
-
-
-.timeline .column {
-	margin: 0px 40px 40px 120px;
 }
 */
 
@@ -207,6 +201,12 @@ ul.social-icons {
 .timeline .column #awards-nav {
 	position: relative;
 	left: 225px;
+	top: -40px;
+}
+
+.timeline .column #proj-nav {
+	position: relative;
+	left: 250px;
 	top: -40px;
 }
 .timeline .column .title h1:before {
